@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jonathanpizarra
 - 👀 I’m interested in programming simple 2D games using HTML5 Canvas.
-- 🌱 I’m currently learning Android Development using Java and Firebase.
+- 🌱 I’m currently learning MERN stack.
 - 💞️ I’m looking to collaborate on anything that I can learn from.
 - 📫 How to reach me? Contact me via email at atanpizarra@gmail.com or LinkedIn: www.linkedin.com/in/jonathanpizarra
 
