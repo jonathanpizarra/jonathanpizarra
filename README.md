@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jonathanpizarra
+- 👋 Hi, I’m [@jonathanpizarra](https://jonathanpizarra.github.io/)
 - 💼 A backend dev that uses Java, Springboot, PostgreSQL, Apache Kafka, and Splunk.
 - 👀 I'm interested in puzzles. Rubik's cube, jigsaws, or any mind-boggling puzzle that's interesting enough.
 - 🌱 I’m currently learning Vue.js. Tried React already.
